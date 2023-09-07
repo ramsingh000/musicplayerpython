@@ -29,5 +29,5 @@ python music_player.py
 <img src="https://github.com/mr-shitij/Music-Player-In-Python/blob/main/images/Screenshot%20from%202022-10-02%2011-19-40.png" width=70% height=70%>
 
 ## 🤖 Author
-[mr-shitij](https://github.com/mr-shitij)
+[Ram singh](https://github.com/ramsingh000)
 
